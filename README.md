@@ -32,12 +32,13 @@ During verification, a timing bug surfaced where the EN and LOAD control signals
 │   └── module_datasheets/
 ├── schematics/
 │   ├── piso_shift_register.png
-│   └── fsm_controller.png
+│   └── counter
 ├── layout/
-│   ├── counter_layout.png
-│   └── drc_lvs_pex_reports/
+│   ├── counter.png
+│   └── module
+│   └── piso_shift_register
 ├── images/
-│   └── waveforms/
+│   └── timing_waveforms/
 └── README.md
 ```
 
